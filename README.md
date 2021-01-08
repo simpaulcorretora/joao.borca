@@ -1,12 +1,12 @@
 # Teste para Engenheiro de Software Backend
 
-A proposta deste teste é criar uma integração integrações com a API da marvel.
+A proposta deste teste é criar uma integração com a API da marvel.
 
 ## Como fazer seu teste
    - Para realizar o teste faça um Fork da branch master com seu nome-sobrenome, por exemplo: "Paulo.Silva". Quando terminar faça um commit desta branch.
 
 ## Prazo para entrega
-   Subimeter no git até 20/11 às 23:59h.
+   Submeter no git até 12/01 às 23:59h.
 
 ## Detalhes API Marvel
   - Acessar o site da API Marvel [Site da API](https://developer.marvel.com/documentation/getting_started)
